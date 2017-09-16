@@ -1,6 +1,6 @@
-# Graphql Pokemon Api
+# GraphQL Pokemon Api
 
-This is an sample app based on [pokeapi.co](https://pokeapi.co/docsv2/#berries-section), it's an mask over pokeapi REST api just to learn typing and handling requests.
+This is an sample app based on [pokeapi.co](https://pokeapi.co/docsv2/#berries-section), it's an mask over pokeapi REST just to learn typing and handling requests.
 
 to run:
 ```

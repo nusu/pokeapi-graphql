@@ -1,0 +1,32 @@
+{
+  "name": "pokeapi-graphql",
+  "version": "1.0.0",
+  "description": "sample app to learn graphql, it's a graphql api masked on pokeapi.co REST api, just to learn typing, handling.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.3",
+    "graphql-tools": "^1.2.2",
+    "https": "^1.0.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nusu/pokeapi-graphql.git"
+  },
+  "keywords": [
+    "graphql",
+    "bootstrap"
+  ],
+  "author": "nusu alabuga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nusu/pokeapi-graphql/issues"
+  },
+  "homepage": "https://github.com/nusu/pokeapi-graphql#readme"
+}

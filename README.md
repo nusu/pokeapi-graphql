@@ -13,6 +13,7 @@ then go to `http://localhost:4000/graphql`
 ## Available Fields
 
 Name | Description | Data Type
+--- | --- | ---
 id | The identifier for this berry resource	| Int
 name | The name for this berry resource	| String
 growth_time | Time it takes the tree to grow one stage, in hours. Berry trees go through four of these growth stages before they can be picked.	| Int
